@@ -1,0 +1,8 @@
+boosting algorithm
+tld (tracking learning and detection)
+medianflow
+meanflow
+mosse (minumum output sum of squared error)
+csrt
+kcf (kernelized correlation filters)
+mil (multiple instance learning)
